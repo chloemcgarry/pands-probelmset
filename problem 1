@@ -1,0 +1,8 @@
+# solution to problem 1
+
+import time 
+if time. strftime("%A") in ("Tuesday", "Thursday"):
+print ("Today begins with the letter T")
+
+elif print ("Today doesn't begin with the letter T")
+
