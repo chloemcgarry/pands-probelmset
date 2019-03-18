@@ -1,0 +1,4 @@
+#solution to problem 2
+
+i = int(input("enter positive integer"))
+while i > 0 
